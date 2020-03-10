@@ -7,7 +7,7 @@ permalink: /about/
 
 是个“好人”
 
-##联系方式
+##联系方式 <br>
 ｑｑ：１１６０２４００６０ <br>
 微信：<br>
 ![avatar](/images/wechat.png) <br>
