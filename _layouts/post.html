@@ -11,8 +11,9 @@ layout: default
 
   <br>
   <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
+    <span style="float:left">Written on {{ page.date | date: "%B %e, %Y" }}</span>
+    <span　style="float:right"><a href="#">返回顶部</a></span>
   </div>
-
+  
   {% include disqus.html %}
 </article>
