@@ -1,14 +1,9 @@
 ---
 layout: page
-title: 关于
+title: 联系方式
 permalink: /about/
 ---
-##本人介绍
-
-是个“好人”
-
-##联系方式 <br>
-ｑｑ：１１６０２４００６０ <br>
+<hr>
 微信：<br>
 ![avatar](/images/wechat.png) <br>
 邮箱：
