@@ -18,7 +18,7 @@ html {
 }
 
 body {
-  background: url('/images/bg.jpg');
+	background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -69,10 +69,12 @@ p {
 }
 
 a {
+  color: $blue;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
     color: $blue;
+    text-decoration: underline;
   }
 }
 
@@ -231,6 +233,7 @@ nav {
 
     @include mobile {
       margin: 0 10px;
+      color: $blue;
     }
   }
 }
