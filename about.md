@@ -4,7 +4,5 @@ title: 联系方式
 permalink: /about/
 ---
 <hr>
-微信：<br>
-![avatar](/images/wechat.png) <br>
-邮箱：
-[1160240060@qq.com](mailto:1160240060@qq.com)
+微信：donghaozhe1
+邮箱：[1160240060@qq.com](mailto:1160240060@qq.com)
