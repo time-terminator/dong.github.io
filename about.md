@@ -5,6 +5,6 @@ permalink: /about/
 ---
 <hr>
 微信：<br>
-<img src="/images/wechat.png" width="100" height="100">
+<img src="/images/wechat.png" width="100" height="100" style="margin-left:'30px'">
  <br>
 邮箱：[1160240060@qq.com](mailto:1160240060@qq.com)
